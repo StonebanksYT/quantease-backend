@@ -6,3 +6,4 @@ pandas==1.5.2
 scipy==1.9.3
 Werkzeug==2.2.2
 flask-cors
+matplotlib
